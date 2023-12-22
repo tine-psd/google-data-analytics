@@ -51,3 +51,64 @@ An airline collects, observes, and analyzes its customers' online behaviors. The
 * **Data-driven decision-making**
 
 > An airline collecting, observing, and analyzing its customers' online behaviors, then using the insights gained to choose what new products and services to offer, describes data-driven decision making. Data-driven decision-making is using facts to guide business strategy.
+
+1, What term describes the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making?
+
+
+Data science
+
+
+Data analysis
+
+
+Data analytics
+
+
+Data modeling
+
+Correct
+Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making. 
+
+Fill in the blank: A _____ encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+
+1 / 1 point
+
+data source
+
+
+data ecosystem
+
+
+business transformation
+
+
+cloud system
+
+Correct
+A data ecosystem encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+
+When building data into business strategy, why is it important to include insights from subject-matter experts? Select all that apply.  
+
+Their experience and human intuition are valuable to data-driven decision-making.
+
+Correct
+It’s important to include insights from subject-matter experts because they are familiar with the business problem and can review analysis results and help identify inconsistencies. Plus, their experience and human intuition are valuable to data-driven decision-making. 
+
+ Question 4
+An e-commerce website collects, observes, and analyzes its customers' online behaviors. Then, it uses the insights gained to choose when to put certain products on sale. What business practice does this describe?
+
+1 / 1 point
+
+Performance measurement
+
+
+Data-driven decision-making 
+
+
+Organizing data
+
+
+Analytical thinking
+
+Correct
+An e-commerce website collecting, observing, and analyzing its customers' online behaviors, then using the insights gained to choose when to put certain products on sale, describes data-driven decision making. Data-driven decision-making is using facts to guide business strategy. 
